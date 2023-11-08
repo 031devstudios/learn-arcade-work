@@ -18,8 +18,6 @@ arcade.set_background_color(arcade.csscolor.SKY_BLUE)
 # Get ready to draw
 arcade.start_render()
 
-# Drwaing goes here
-
 # Finish drwaing
 arcade.finish_render()
 
